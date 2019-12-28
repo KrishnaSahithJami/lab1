@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-   public class Add {
+   public class add {
     public static void main(String[] args) {
         
         int first = 10;
