@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-   public class AddTwoIntegers {
+   public class Add {
     public static void main(String[] args) {
         
         int first = 10;
