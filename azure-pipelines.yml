@@ -11,9 +11,9 @@ pool:
 
 steps:
 - task: Maven@3
-- task: CmdLine@2
+-- task: CmdLine@2
   inputs:
     script: |
-      javac add.java 
-      java AddTwoIntegers
+      javac add.java
+      java Add
  
