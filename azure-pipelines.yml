@@ -16,4 +16,7 @@ steps:
     script: |
       javac add.java
       java Add
- 
+      javac add.java
+      java Add
+  
+
