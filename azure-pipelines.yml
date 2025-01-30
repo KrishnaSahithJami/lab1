@@ -17,3 +17,8 @@ steps:
       javac add.java
       java Add
  
+
+
+steps:
+- task: Maven@3
+-- task: CmdLine@2
